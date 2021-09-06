@@ -40,7 +40,7 @@ All in One Social Media Downloader uses follwing libraries
 
 - open cmd
 - execute "cd Desktop" (or any other suitable folder)
-- execute "git clone https://github.com/abhaygupta08/YiF-Downloader-YT-IG-FB.git"
+- execute "git clone "https://github.com/emperor-2001/All-in-One-Social-Media-Downloader"
 - execute "cd YiF-Downloader-YT-IG-FB-" (use Tab Completion for Better Navigation)
 - execute "pip install -r requirements.txt"
 - execute "python main.py"
